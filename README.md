@@ -1,6 +1,6 @@
 # SQL Employee | Data Modeling | Data Engineering | Data Analysis
 
-In this pproject, I will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
+In this project, I will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
 #### Data Modeling
 
