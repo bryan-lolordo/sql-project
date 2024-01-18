@@ -5,7 +5,7 @@ In this pproject, I will design the tables to hold data in the CSVs, import the 
 #### Data Modeling
 
 From inspecting the CSVs, here is my ERD:
-
+EmployeeSQL/ERD.PNG
 
 #### Data Engineering
 
